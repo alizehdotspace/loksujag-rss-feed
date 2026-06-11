@@ -12,7 +12,7 @@
       <link>https://loksujag.com</link>
     </image>
     <language>ur</language>
-    <lastBuildDate>Wed, 10 Jun 2026 00:49:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:49:22 +0000</lastBuildDate>
     <item>
       <title>خصوصی ایڈیشن</title>
       <link>https://loksujag.com/special-edition/exploitative-labor</link>
@@ -228,6 +228,20 @@
       <guid isPermaLink="false">3ab22ef73e53c0d95770042c520e292e</guid>
       <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/273-wheat-sindh.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Jun 2026 00:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ڈسکوز کی نجکاری: پالیسی سازوں کی دو جمع دو چار میں صارفین کو کیا بچے گا؟</title>
+      <link>https://loksujag.com/story/privatization-of-discos-consumer-impact-pakistan</link>
+      <guid isPermaLink="false">09543b95058db49a3eb3f31d0a6ded6d</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/878-disco-energy.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jun 2026 00:49:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>کیا قومی لیتھیم آئن بیٹری پالیسی سے وابستہ توقعات پوری ہو پائیں گی؟</title>
+      <link>https://loksujag.com/story/pakistan-national-lithium-ion-battery-policy-expectations-challenges</link>
+      <guid isPermaLink="false">3e17242be412976db5c85c7a80d35113</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/443-ev-batteries.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jun 2026 00:49:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

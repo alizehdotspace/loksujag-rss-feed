@@ -309,7 +309,27 @@
       "guid": "3ab22ef73e53c0d95770042c520e292e",
       "scraped_at": "2026-06-04T00:55:14.581959",
       "description": ""
+    },
+    {
+      "url": "https://loksujag.com/story/privatization-of-discos-consumer-impact-pakistan",
+      "title": "ڈسکوز کی نجکاری: پالیسی سازوں کی دو جمع دو چار میں صارفین کو کیا بچے گا؟",
+      "author": "احتشام احمد شامی",
+      "thumbnail": "https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/878-disco-energy.png",
+      "slug": "privatization-of-discos-consumer-impact-pakistan",
+      "guid": "09543b95058db49a3eb3f31d0a6ded6d",
+      "scraped_at": "2026-06-11T00:49:18.630291",
+      "description": ""
+    },
+    {
+      "url": "https://loksujag.com/story/pakistan-national-lithium-ion-battery-policy-expectations-challenges",
+      "title": "کیا قومی لیتھیم آئن بیٹری پالیسی سے وابستہ توقعات پوری ہو پائیں گی؟",
+      "author": "آصف محمود",
+      "thumbnail": "https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/443-ev-batteries.png",
+      "slug": "pakistan-national-lithium-ion-battery-policy-expectations-challenges",
+      "guid": "3e17242be412976db5c85c7a80d35113",
+      "scraped_at": "2026-06-11T00:49:18.630373",
+      "description": ""
     }
   ],
-  "last_updated": "2026-06-04T00:55:16.391679"
+  "last_updated": "2026-06-11T00:49:22.235527"
 }
